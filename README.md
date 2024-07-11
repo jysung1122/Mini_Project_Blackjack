@@ -2,6 +2,7 @@
 24.07.11
 
 ## 실행 화면
+<img width="540" alt="image" src="https://github.com/jysung1122/Mini_Project_Blackjack/assets/56614779/c57c6bc3-5b41-4399-8bbc-21a79419859c">
 
 ### 블랙잭 게임이란?
 - 카드 게임의 한 종류로, 목표는 카드의 합계가 21을 넘지 않으면서 가능한 한 21에 가깝게 만드는 것
